@@ -23,7 +23,7 @@ ___
 
 # Índice
 
-* ## :clipboard: [Blog](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Blog "Blog")
+* ## :clipboard: [Blog](https://github.com/edgarcastillo17/avscastillo/tree/main/blog "Blog")
     * ### :hourglass_flowing_sand: [C0.1 IntegrarEquiposDeTrabajo](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.1_IntegrarEquiposDeTrabajo_VillegasRamirezLuisEduardo.md")
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.2_TipoDeSistemaDenformacion_VillegasRamirezLuisEduardo.md "C0.2 Tipo de Sistema a Desarrollar")
 
