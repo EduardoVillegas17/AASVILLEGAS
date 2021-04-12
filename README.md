@@ -24,11 +24,12 @@ ___
 # Índice
 
 * ## :clipboard: [Blog](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Blog "Blog")
-    * ### :hourglass_flowing_sand: [C0.1 IntegrarEquiposDeTrabajo](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.1_IntegrarEquiposDeTrabajo_VillegasRamirezLuisEduardo.md "C0.1 Integrar Equipos De Trabajo")
+    * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.1_IntegrarEquiposDeTrabajo_VillegasRamirezLuisEduardo.md "C0.1 Integrar Equipos De Trabajo")
     * ### :hourglass_flowing_sand: [C0.2 Tipo de Sistema a Desarrollar](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.2_TipoDeSistemaDenformacion_VillegasRamirezLuisEduardo.md "C0.2 Tipo de Sistema a Desarrollar")
     * ### :hourglass_flowing_sand: [C0.3 Diagrama De Flujo De Proceso](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C0.3_DiagramaDeFlujo_VillegasRamirezLuisEduardo.md "C0.3 Diagrama De Flujo De Proceso")
     * ### :hourglass_flowing_sand: [A0.1 Compilation Interview](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A0.1_Compilation_Interview_VillegasRamirezLuisEduardo.md "A0.1 Compilation Interview")
     * ### :hourglass_flowing_sand: [C1.1 Definición De Objetivo General, Especificos y Modelado Del Negocio](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.1_Definici%C3%B3nDeObjetivoGeneralEspecificosModeladoDelNegocio_VillegasRamirezLuisEduardo.md "C1.1 Definición De Objetivo General, Especificos y Modelado Del Negocio")
+    * ### :hourglass_flowing_sand: [C1.2 Acta Constitutiva Del Proyecto](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.2_ActaConstitutivaDelProyecto_VillegasRamirezLuisEduardo.md "C1.2 Acta Constitutiva Del Proyecto")
     
 
 
