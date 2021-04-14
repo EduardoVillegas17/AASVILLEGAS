@@ -30,6 +30,7 @@ ___
     * ### :hourglass_flowing_sand: [A0.1 Compilation Interview](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A0.1_Compilation_Interview_VillegasRamirezLuisEduardo.md "A0.1 Compilation Interview")
     * ### :hourglass_flowing_sand: [C1.1 Definición De Objetivo General, Especificos y Modelado Del Negocio](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.1_Definici%C3%B3nDeObjetivoGeneralEspecificosModeladoDelNegocio_VillegasRamirezLuisEduardo.md "C1.1 Definición De Objetivo General, Especificos y Modelado Del Negocio")
     * ### :hourglass_flowing_sand: [C1.2 Acta Constitutiva Del Proyecto](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.2_ActaConstitutivaDelProyecto_VillegasRamirezLuisEduardo.md "C1.2 Acta Constitutiva Del Proyecto")
+    * ### :hourglass_flowing_sand: [C1.3 Requisitos Del Sistema](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.3_RequisitosDelSistema_VillegasRamirezLuisEduardo.md "C1.3 Requisitos Del Sistema")
     
 
 
