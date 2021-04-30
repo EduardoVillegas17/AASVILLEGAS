@@ -34,6 +34,7 @@ ___
     * ### :hourglass_flowing_sand: [A1.0 Project Charter](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A1.0_ProjectCharter_VillegasRamirezLuisEduardo.md "A1.0 Project Charter")
     * ### :hourglass_flowing_sand: [C1.4 UML Casos De Uso-Secuencia-Clases](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.4UMLCasosDeUsoSecuenciaClases_VillegasRamrezLuisEduardo.md "C1.4 UML Casos De Uso-Secuencia-Clases")
     * ### :hourglass_flowing_sand: [C1.5 UML Estado-Componentes-Distribucion](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C1.5UMLEstadoComponentesDistribucion_VillegasRamrezLuisEduardo.md "C1.5 UML Estado-Componentes-Distribucion")
+    * ### :hourglass_flowing_sand: [A1.1 UML Requirements Modeling](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A1.1_UML_Requirements_Modeling.md "A1.1 UML Requirements Modeling")
     
 
 * ## :open_file_folder: [Docs](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Docs "Docs")
