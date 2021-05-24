@@ -38,9 +38,9 @@ ___
     * ### :hourglass_flowing_sand: [C2.1_Especificacion Requerimientos Funcionales](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C2.1_EspecificacionRequerimientosFuncionales_VillegasRamirezLuisEduardo.md "C2.1_Especificacion Requerimientos Funcionales")
     * ### :hourglass_flowing_sand: [A2.1 Learning Activity](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.1_Requirements_specifications_and_documentation.md "A2.1 Learning Activity")
     * ### :hourglass_flowing_sand: [A2.2_41 Architectural ViewModel]
-(https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.2_41_Architectural_ViewModel.md "A2.2 Architectural ViewModel")
-    * ### :hourglass_flowing_sand: [A2.3_Software Architectural Patterns]
-(https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.3_Software_Architectural_Patterns.md "A2.3 Software Architectural Patterns")
+    * (https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.2_41_Architectural_ViewModel.md "A2.2 Architectural ViewModel")
+    * ### :hourglass_flowing_sand: [A2.3_Software Architectural Patterns
+    * (https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.3_Software_Architectural_Patterns.md "A2.3 Software Architectural Patterns")
     
 
 * ## :open_file_folder: [Docs](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Docs "Docs")
