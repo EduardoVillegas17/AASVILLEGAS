@@ -38,7 +38,8 @@ ___
     * ### :hourglass_flowing_sand: [C2.1_Especificacion Requerimientos Funcionales](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/C2.1_EspecificacionRequerimientosFuncionales_VillegasRamirezLuisEduardo.md "C2.1_Especificacion Requerimientos Funcionales")
     * ### :hourglass_flowing_sand: [A2.1 Learning Activity](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.1_Requirements_specifications_and_documentation.md "A2.1 Learning Activity")
     * ### :hourglass_flowing_sand: [A2.2_41 Architectural ViewModel](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.2_41_Architectural_ViewModel.md "A2.2 Architectural ViewModel")
-    * ### :hourglass_flowing_sand: [A2.3_Software Architectural Patterns](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.3_Software_Architectural_Patterns%20(1).md "A2.3 Software Architectural Patterns")
+    * ### :hourglass_flowing_sand: [A2.3 Software Architectural Patterns](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.3_Software_Architectural_Patterns%20(1).md "A2.3 Software Architectural Patterns")
+    * ### :hourglass_flowing_sand: [A3.1 Documentation Scrum Initiate Phase](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A3.1.Documentation_Scrum_InitiatePhase.md "A3.1 Documentation Scrum Initiate Phase")
     
 
 * ## :open_file_folder: [Docs](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Docs "Docs")
