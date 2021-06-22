@@ -41,6 +41,7 @@ ___
     * ### :hourglass_flowing_sand: [A2.3 Software Architectural Patterns](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A2.3_Software_Architectural_Patterns%20(1).md "A2.3 Software Architectural Patterns")
     * ### :hourglass_flowing_sand: [A3.1 Documentation Scrum Initiate Phase](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A3.1.Documentation_Scrum_InitiatePhase.md "A3.1 Documentation Scrum Initiate Phase")
     * ### :hourglass_flowing_sand: [A3.2 Initial Phase Artifacts](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A3.2_InitialPhase_Artifacts.md "A3.2 Initial Phase Artifacts")
+    * ### :hourglass_flowing_sand: [A3.3 Architecture Using C4Model](https://github.com/EduardoVillegas17/AASVILLEGAS/blob/main/Blog/A3.3_Architecture_usingC4Model.md "A3.3 Architecture Using C4Model")
     
 
 * ## :open_file_folder: [Docs](https://github.com/EduardoVillegas17/AASVILLEGAS/tree/main/Docs "Docs")
